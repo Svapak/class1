@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499988963152",
+    "project_id": "sihh-dd8ad",
+    "storage_bucket": "sihh-dd8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499988963152:android:bc16c956e00b1ff141d655",
+        "android_client_info": {
+          "package_name": "com.example.sih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3lLN9UDXcH1xqhCeulO2F_vKuYeSZXXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

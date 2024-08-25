@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/warehouse"
+        android:title="Find your stuff"
+        android:icon="@drawable/warehouse"/>
+    <item
+        android:id="@+id/maps"
+        android:title="Find out"
+        android:icon="@drawable/maps"/>
+    <item
+        android:id="@+id/detect"
+        android:title="Find out"
+        android:icon="@drawable/analyzing"/>
+    <item
+        android:id="@+id/inventory"
+        android:title="Inventory"
+        android:icon="@drawable/list"/>
+    <item
+        android:id="@+id/chat"
+        android:title="Chat with us"
+        android:icon="@drawable/bot"/>
+</menu>
